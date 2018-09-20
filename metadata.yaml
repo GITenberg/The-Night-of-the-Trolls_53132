@@ -1,5 +1,5 @@
 _repo: The-Night-of-the-Trolls_53132
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Finlay, Virgil
@@ -15,6 +15,9 @@ contributor:
     deathdate: 2000
     gutenberg_agent_id: '47158'
     url: http://www.gutenberg.org/2009/agents/47158
+covers:
+- cover_type: archival
+  image_path: 53132-h/images/cover.jpg
 creator:
   author:
     agent_name: Laumer, Keith
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24817
     wikipedia: http://en.wikipedia.org/wiki/Keith_Laumer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53132#The-Night-of-the-Trolls
 gutenberg_issued: '2016-09-23'
 gutenberg_type: Text
 identifiers:
